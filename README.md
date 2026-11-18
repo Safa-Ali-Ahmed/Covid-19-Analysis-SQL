@@ -333,8 +333,3 @@ This project provides critical insights that can help governments and healthcare
 ## Feedback
 
 If you have any suggestions or feedback, feel free to open an issue or connect with me on [LinkedIn](https://www.linkedin.com/in/safaali-da/).
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
